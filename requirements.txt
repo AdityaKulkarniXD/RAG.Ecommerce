@@ -1,0 +1,9 @@
+streamlit==1.30.0
+requests==2.31.0
+selenium==4.16.0
+beautifulsoup4==4.12.2
+webdriver-manager==4.0.1
+numpy==1.24.3
+faiss-cpu==1.7.4
+google-generativeai==0.4.0
+fake-useragent==1.5.1
